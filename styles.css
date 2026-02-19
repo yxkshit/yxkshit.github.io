@@ -112,3 +112,17 @@ font-size: 13px;
 @media (max-width: 600px) {
 .hero h2 { font-size: 26px; }
 }
+
+nav a:hover {
+
+color: #00adb5;
+
+}
+
+.card:hover {
+
+transform: translateY(-5px);
+
+transition: 0.3s;
+
+}
