@@ -541,3 +541,47 @@ align-items: center;
 gap: 10px;
 
 }
+.btn {
+
+display: inline-flex;
+
+align-items: center;
+
+gap: 10px;
+
+text-decoration: none;
+
+cursor: pointer;
+
+}
+.btn {
+
+display: inline-flex;
+
+align-items: center;
+
+gap: 10px;
+
+padding: 10px 14px;
+
+text-decoration: none;
+
+color: white;
+
+border-radius: 6px;
+
+}
+
+.icon {
+
+width: 20px;
+height: 20px;
+
+flex-shrink: 0;
+
+}
+.icon {
+
+display: block;
+
+}
